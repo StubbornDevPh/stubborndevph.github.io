@@ -1,0 +1,2 @@
+User-agent: * Disallow: /contact
+Sitemap: https://www.gabcodes.com/sitemap/en.xml
